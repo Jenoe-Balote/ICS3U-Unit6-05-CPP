@@ -5,7 +5,6 @@
 // this program averages out marks inputted by the user
 
 #include <iostream>
-#include <iomanip>
 #include <list>
 #include <cmath>
 
